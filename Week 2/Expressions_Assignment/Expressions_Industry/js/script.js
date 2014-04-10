@@ -3,7 +3,8 @@
 var width = prompt("add a value");
 var ratio = prompt(""); 
 var rim = prompt("");
-var area = ((width * (ratio/100) * 2)/25.4 + rim); //calculating the input info 
+if (width != "" && ratio != "" && rim != "")
+var area = ratio/100 * width * 2/25.4 + rim + rim; //calculating the input info 
 console.log(area); //printing it out to console.
 var result = "The size of your tires is" + area + " inches "; //result of the problem will show up here.
 alert(result);

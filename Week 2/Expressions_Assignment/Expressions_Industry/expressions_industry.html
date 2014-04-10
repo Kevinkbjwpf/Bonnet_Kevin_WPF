@@ -7,8 +7,20 @@
 </head>
 
 <body>
-Calculating Tire Diameter
+Calculating Tire Diameter!
 <img src="http://roselleservicecenter.com/Images/Tires.jpg"
+
+<!--
+function TireDiameterCalculator(form) {
+var ok = 0;
+var width = parseFloat(form.width.value);
+var ratio = parseFloat(form.ratio.value);
+var rim = parseFloat(form.rim.value);
+var inches = 0;
+var incomplete = "Please enter information in all three fields.";
+if (width != "" && ratio != "" && rim != "")  {inches = ((width * (ratio/100) * 2)/25.4 + rim) ; ok++; }
+form.inches.value = inches.toFixed(0);
+if (!ok) alert(incomplete);  // they did not enter at least 3 fields
 
 </body>
 
