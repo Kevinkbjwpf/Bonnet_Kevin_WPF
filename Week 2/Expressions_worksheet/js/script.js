@@ -1,9 +1,11 @@
 //Slice of Pizza Calculation
 
-var peopleatparty = 22; 
-peopleatparty = peopleatparty * 3; //mul 3 to peopleatparty
-
+var slicesperpizza = 10; 
+var peopleatparty = 22;
+var pizzaboxesordered = 10; 
 var slicesperperson = 3;
 
-var pizzaordered = 10; 
+peopleatparty = peopleatparty * 3; 
+
+//print out the output slices
 console.log(peopleatparty);
