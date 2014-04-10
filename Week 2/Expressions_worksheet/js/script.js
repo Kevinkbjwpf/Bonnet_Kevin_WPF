@@ -1,4 +1,4 @@
-//Dog Years Calculations
+//Slice of Pizza
 
-var a = 2;
+var a = 7;
 console.log(a);
