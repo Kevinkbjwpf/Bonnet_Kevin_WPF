@@ -2,5 +2,5 @@
 
 var width = prompt("add a value");
 var height = prompt("");
-var area = 
+var area = width * height;
 console.log(userInput);
