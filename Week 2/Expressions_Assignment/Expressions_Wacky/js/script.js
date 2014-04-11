@@ -2,6 +2,9 @@
 
 alert("Warning Laughter Ahead!!!");
 
-var mariokart = ["Mario" , "Luigy" , "Donkey Kong", "Yoshi" , "Bowser"]; //0,1,2,3 indexes
+var mariokart = ["Mario" , "Luigy" , "Donkey Kong"]; //0,1,2,3 indexes
 
-console.log(mariokart);
+mariokart[3] = "Yoshi"; //adding to the index #3 now is not undefined in a way
+
+
+console.log(mariokart[3]); //shows me the missing index #3
