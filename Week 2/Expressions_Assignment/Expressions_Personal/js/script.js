@@ -2,6 +2,11 @@
 
 //Arithmetic Operators
 
-//How much gas will i end up using over the course of a trip?
+//How much gas money would i need for a trip?
 
-var 
+var distance = 1000;
+var gas mileage = 25;
+var gas price = 3.29;
+var gallons = 40;
+
+console.log(distance);
