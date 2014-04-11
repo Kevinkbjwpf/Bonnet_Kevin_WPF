@@ -5,8 +5,10 @@
 //How much gas money would i need for a trip?
 
 var distance = 1000;
-var gas mileage = 25;
-var gas price = 3.29;
+var gasmileage = 25;
+var gasprice = 3.59;
 var gallons = 40;
 
-console.log(distance);
+var totalmoney = gasprice * gallons;
+
+console.log(totalmoney);
