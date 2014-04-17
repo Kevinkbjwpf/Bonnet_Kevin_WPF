@@ -33,3 +33,7 @@ console.log(movieTicketPrices[i]);
    }
 
      console.log("After the For Loop");
+     console.log(totalNumPrices);
+     
+console.log
+alert("There are "+totalNumPrices+" different prices(s) for movie tickets");     
