@@ -10,10 +10,12 @@ var oldEnough = 17;
 //if the person is 17 and older 
 if(oldEnough > 17){
 	//code will take place if the conditions are true
+	//you can watch the movie!
 	console.log("You can watch this movie!");
-}
-
-
-if(oldEnough <= 19){
-	console.log("Sorry your just not old enough to watch this kind of movie!");
+}else if(){
+//you can watch the movie with a parent/guradian if present!
+	console.log("You can watch this movie, but only with a parent/guradian present!");
+}else{
+	//sorry your just not old enough to watch this movie!
+	console.log("Sorry your just not old enough to watch this movie!");
 }
