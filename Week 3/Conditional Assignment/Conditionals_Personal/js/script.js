@@ -1,6 +1,13 @@
 //Kevin 04/17/2014 Conditionals Personal
 
 //age for drinking alcohol
+//starting the prompt section for this section of work.
+
+prompt("Enter your age here:")
+
+
+
+
 //now working on the conditional statement of proof 
 
 var personAge = 19;
