@@ -1,7 +1,7 @@
 //Kevin 04/17/2014 Conditionals Personal
 
 
-//now working on the conditional statement of proof for the prompts
+//now working on the conditional statement of proof 
 
 var personAge = 19;
 var minAge = 21
@@ -14,4 +14,7 @@ if(personAge > minAge){
 }else{
 //code will be perform if conditionals is false
 	console.log("Sorry your just not old enough to have alcohol yet!");
+}else{
+	
 }
+
