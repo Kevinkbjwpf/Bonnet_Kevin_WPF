@@ -1,6 +1,15 @@
  //Kevin 04/17/2014 Conditionals Industry
 
-//Old enough to watch a "Rated-R" movie
+//Old enough to watch a "Rated-R" movie//
+//starting off with my prompts for this.
+var Age = prompt("Checking to make sure that your old enough for this movie. \n Please enter the year you were born:");
+var
+console.log(Age);
+
+
+
+
+
 
 //now working on the conditional statement of proof for the prompts
 
