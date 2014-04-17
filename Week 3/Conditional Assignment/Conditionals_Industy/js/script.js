@@ -4,10 +4,16 @@
 
 //now working on the conditional statement of proof for the prompts
 
-var oldEnough = true;
+var oldEnough = 17;
 
 //if a person is old enough to be permitted in,"printing to console "you can watch this movie!"
-if(oldEnough){
+//if the person is 17 and older 
+if(oldEnough > 17){
 	//code will take place if the conditions are true
 	console.log("You can watch this movie!");
+}
+
+
+if(oldEnough <= 19){
+	console.log("Sorry your just not old enough to watch this kind of movie!");
 }
