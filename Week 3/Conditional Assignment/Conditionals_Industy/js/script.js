@@ -2,14 +2,15 @@
 
 //Old enough to watch a "Rated-R" movie//
 //starting off with my prompts for this.
-var Age = prompt("Checking to make sure that your old enough for this movie. \n Please enter the year you were born:");
-var
-console.log(Age);
 
 
+var name = prompt("Please type in your name"); //prompting the user to input there name first
+var yearBorn = promt("What year were you born"); //getting the users birth year
 
-
-
+console.log(name);
+console.log()
+//creating an alert that the user will see
+alert("Welcome " +name+"! we have one more question for you.");
 
 //now working on the conditional statement of proof for the prompts
 
