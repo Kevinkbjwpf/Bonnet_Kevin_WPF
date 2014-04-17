@@ -26,6 +26,7 @@ console.log(movieTicketPrices[i]);
 //iF(Thing to test) {CODE TO RUN IF TRUE}
    
     if(movieTicketPrices[1] ==="prices");{
+    //iF item is a movie ticket price it will run this 
 	    console.log("item is a price");
 	    //keeping count of the number of prices
 	    totalNumPrices++;
