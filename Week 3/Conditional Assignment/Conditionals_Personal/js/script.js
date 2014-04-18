@@ -3,7 +3,24 @@
 //age for drinking alcohol
 //starting the prompt section for this section of work.
 
-prompt("Enter your age here:")
+var name = prompt("Please type in your name"); //prompting the user to input there name first
+var yearBorn = prompt("What year were you born?"); //getting the users birth year
+
+console.log(name);
+
+//creating an alert that the user will see
+alert("Welcome " +name+"!");
+
+var yearBorn = prompt("What year were you born?"); //getting the users birth yearBorn
+console.log(yearBorn);
+
+//variable for the current year
+var currentYear = 2014
+
+//finding out how old the drinkers are
+
+var age = currentYear - yearBorn;
+console.log(age);
 
 
 
