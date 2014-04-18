@@ -24,7 +24,8 @@ var wParentGuardianAge = 21; // the age of the parent/guardian of the present ch
 
 //if a person is old enough to be permitted in,"printing to console "you can watch this movie!"
 //if the person is 17 and older 
-if(Age > minAge){
+
+/*if(Age > minAge){
 	//code will take place if the conditions are true
 	//you can watch the movie!
 	console.log("You can watch this movie!");
@@ -34,4 +35,8 @@ if(Age > minAge){
 }else{
 	//sorry your just not old enough to watch this movie!
 	console.log("Sorry your just not old enough to watch this movie!");
-}
+}*/
+//Cancilling out the previous results
+//now using the TERNARY OPERRATIONS
+
+(age > 21) ? console.log("Your can watch this movie!") : console.log("Sorry your just not old enough to watch this movie!");
