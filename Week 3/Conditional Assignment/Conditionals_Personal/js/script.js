@@ -4,8 +4,6 @@
 //starting the prompt section for this section of work.
 
 var name = prompt("Please type in your name"); //prompting the user to input there name first
-var yearBorn = prompt("What year were you born?"); //getting the users birth year
-
 console.log(name);
 
 //creating an alert that the user will see
@@ -22,8 +20,7 @@ var currentYear = 2014
 var age = currentYear - yearBorn;
 console.log(age);
 
-
-
+alert(name+" you are "+age+" years old")
 
 //now working on the conditional statement of proof 
 
