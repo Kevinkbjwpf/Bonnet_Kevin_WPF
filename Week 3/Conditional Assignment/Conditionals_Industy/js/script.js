@@ -5,12 +5,16 @@
 
 
 var name = prompt("Please type in your name"); //prompting the user to input there name first
-var yearBorn = promt("What year were you born"); //getting the users birth year
+var yearBorn = prompt("What year were you born"); //getting the users birth year
 
 console.log(name);
-console.log()
+
 //creating an alert that the user will see
 alert("Welcome " +name+"! we have one more question for you.");
+
+var yearBorn = prompt("What year were you born?"); //getting the users birth yearBorn
+console.log(yearBorn);
+
 
 //now working on the conditional statement of proof for the prompts
 
