@@ -1,5 +1,4 @@
 //Checking movie ticket prices
-
 //create a variable that represent movie ticket prices
 
 var movieTicketPrices = ["age" , "time"];
