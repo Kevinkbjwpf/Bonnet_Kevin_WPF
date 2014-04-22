@@ -1,0 +1,1 @@
+//JavaScript Functions Industry 04/22/2014
