@@ -5,8 +5,6 @@
 
 
 var name = prompt("Please type in your name"); //prompting the user to input there name first
-var yearBorn = prompt("What year were you born"); //getting the users birth year
-
 console.log(name);
 
 //creating an alert that the user will see
