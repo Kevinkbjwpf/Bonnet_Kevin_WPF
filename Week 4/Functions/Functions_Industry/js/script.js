@@ -29,6 +29,9 @@ function checkForPrices(movieTickets){
 { 
 //console.log(movieTicketPrices[i]); 
 //test the movie tickets prices
-if(movieTicketPrices[i] === ""
+if(movieTicketPrices[i] === "prices" ){
+	
+	numTickets++;
+}
 	
 }
