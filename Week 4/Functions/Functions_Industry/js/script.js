@@ -34,4 +34,6 @@ if(movieTicketPrices[i] === "prices" ){
 	numTickets++;
 }
 	
+	console.log(numTickets);
+	return(numTickets);
 }
