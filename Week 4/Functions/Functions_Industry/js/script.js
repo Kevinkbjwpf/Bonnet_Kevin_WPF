@@ -1,4 +1,4 @@
-//JavaScript Functions Industry 04/22/2014
+//JavaScript Functions Industry 05/01/2014
 
 //creating a Function that represent movie ticket prices
 

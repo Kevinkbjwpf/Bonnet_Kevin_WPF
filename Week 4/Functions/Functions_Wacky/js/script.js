@@ -1,4 +1,4 @@
-//JavaScript Functions Wacky 04/22/2014
+//JavaScript Functions Wacky 05/01/2014
 
 var
 
