@@ -7,7 +7,7 @@ function outptMsg(){
 
 var gasPrice = 3.27;
 
-function calcArea(){
+function gasMoneyNeeded(){
 	var distance = 960;
 	var gasMileage = 25;
 	var gasPrice = 3.49;
