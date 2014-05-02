@@ -4,6 +4,7 @@
 calcArea();
 
 function calcArea(){
-	var area = * ;
-	console.log();
+	var =  ;
+	var = * ;
+	console.log("s is " + d + " a ");
 }
